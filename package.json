@@ -45,5 +45,14 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.3.2",
     "typescript": "~2.3.3"
-  }
+  },
+	"repository": {
+   	 "type": "git",
+   	 "url": "https://github.com/battubhaskar/FirstApp"
+ 	 },
+ 	 "keywords": [
+  	  "node",
+   	 "heroku",
+   	 "express"
+  ]
 }
